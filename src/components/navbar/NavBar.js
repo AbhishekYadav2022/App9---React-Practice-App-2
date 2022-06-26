@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom"
+import Spinner from "../spinner/Spinner";
 import "./NavBar.css";
 
 const NavBar = () => {
@@ -7,9 +7,7 @@ const NavBar = () => {
     <>
       <div className="navbar">
         <ul>
-          <Link to={"/"}>
-            <li>Home</li>
-          </Link>
+          <li>Home</li>
           <li>Contact Us</li>
           <li>Services</li>
           <li>Blog</li>

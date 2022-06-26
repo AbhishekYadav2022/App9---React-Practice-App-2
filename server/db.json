@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "id": "glii@fdfl64ff5",
+      "name": "Rohan",
+      "phone": "914926394"
+    },
+    {
+      "id": "sfmbhfl64fo0",
+      "name": "John",
+      "phone": "983465394"
+    },
+    {
+      "id": "Y*jfbfl64fg4",
+      "name": "Pranav Yadav",
+      "phone": "6438495726"
+    },
+    {
+      "id": "jdii@fdfl64gh7",
+      "name": "Naveen",
+      "phone": "933926394"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "family"
+    }
+  ]
+}

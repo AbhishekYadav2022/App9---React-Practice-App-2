@@ -1,0 +1,17 @@
+.viewContainer {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.camera{
+    height: 150px;
+}
+.back{
+    padding: 5px;
+    margin: 3px;
+    border-radius: 12px;
+    background-color: white;
+    border-color: rgb(115, 1, 255);
+    color: rgb(115, 1, 255);
+}
